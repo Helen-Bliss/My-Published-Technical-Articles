@@ -4,6 +4,8 @@ I love writing, learning new things and helping others to learn in an easy way. 
 
 Below are the articles published so far:
 
+https://helenchukwukelu.hashnode.dev/deploy-a-three-tier-web-application-on-aws
+
 https://helenchukwukelu.hashnode.dev/devops-pre-requisites
 
 https://helenchukwukelu.hashnode.dev/terraform-project-for-beginners
